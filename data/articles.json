@@ -1,0 +1,17 @@
+[
+  {
+    "objectID": "article_001",
+    "title": "The Rise of Quantum Computing",
+    "content": "Quantum computing is a rapidly emerging technology that harnesses the principles of quantum mechanics to solve problems too complex for classical computers. Unlike classical computers that store information as bits (0s or 1s), quantum computers use qubits, which can represent 0, 1, or both simultaneously. This property, known as superposition, along with entanglement and interference, allows quantum computers to perform certain calculations exponentially faster. Major players like IBM, Google, and Microsoft are heavily investing in quantum research, aiming for breakthroughs in drug discovery, materials science, and cryptography."
+  },
+  {
+    "objectID": "article_002",
+    "title": "Sustainable Urban Planning for Future Cities",
+    "content": "As global populations continue to grow and urbanize, the concept of sustainable urban planning becomes increasingly vital. This involves designing cities that minimize environmental impact, promote social equity, and foster economic viability. Key strategies include developing green infrastructure, promoting public transportation and active mobility, designing energy-efficient buildings, and creating mixed-use developments that reduce the need for long commutes. Community engagement and the integration of smart technologies are also crucial for building resilient and livable future cities."
+  },
+  {
+    "objectID": "article_003",
+    "title": "Revolutionizing Healthcare with AI and Machine Learning",
+    "content": "Artificial intelligence (AI) and machine learning (ML) are transforming various facets of the healthcare industry. From accelerating drug discovery and personalizing treatment plans to improving diagnostic accuracy and automating administrative tasks, the potential is vast. AI algorithms can analyze vast amounts of patient data, identify patterns, and predict disease outbreaks. Wearable devices leveraging ML can monitor vital signs and alert users to potential health issues, empowering proactive healthcare management. Ethical considerations and data privacy remain key challenges as AI adoption in healthcare expands."
+  }
+]
